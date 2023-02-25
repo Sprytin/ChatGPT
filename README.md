@@ -1,4 +1,4 @@
-# ChatGPT Kotlin Spring Boot application 
+# Kotlin Spring Boot application ChatGPT REST API 
 **Kotlin Spring Boot application** version of reverse engineered ChatGPT API https://github.com/acheong08/ChatGPT proxy
 
 You can use multiple tokens, and the load between them will be balanced.
