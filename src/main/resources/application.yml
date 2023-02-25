@@ -3,5 +3,3 @@ bridge:
   #https://chat.openai.com/api/auth/session chatGPT access token
   tokens:
     - "<TOKEN>"
-server:
-  port: 8078
