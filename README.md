@@ -10,7 +10,7 @@ You can use multiple tokens, and the load between them will be balanced.
 ```shell
 git clone https://github.com/Sprytin/ChatGPT.git
 ```
-2. Change
+2. add your tokens
 ```yaml
 bridge:
   #Cloudflare bypass proxy url
@@ -55,5 +55,5 @@ curl -X POST http://localhost:8080/api/v1/ask \
     "conversationId": "0d6cf11e-5c77-41b4-b732-0f7a537fff2c"
 }
 ```
-## TODO
+## TODO()
 Error Handling
