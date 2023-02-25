@@ -14,7 +14,6 @@ class TokenService(
 
     suspend fun getToken(): Token? {
         updateMutex.withLock {
-            // ищем свободный токен
             val freeToken = tokens
                 .filter { !it.inUse }
                 .minByOrNull { it.counter }
