@@ -1,4 +1,4 @@
-# [DEPRECATED] use [chatgpt-api] (https://github.com/Sprytin/chatgpt-spring-boot-starter)
+# [DEPRECATED] use [chatgpt-api](https://github.com/Sprytin/chatgpt-spring-boot-starter)
 # Kotlin Spring ChatGPT REST API 
 **Kotlin Spring REST API** version of reverse engineered ChatGPT API https://github.com/acheong08/ChatGPT proxy
 
